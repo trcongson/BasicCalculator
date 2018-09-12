@@ -1,0 +1,20 @@
+table {
+    background: darkcyan;
+    margin: auto;
+}
+
+#Result {
+    width: 176px;
+}
+.btn{
+    width: 34px;
+    height: 32px;
+}
+#equ{
+    width: 34px;
+    height: 66px;
+}
+#zezo{
+    width: 72px;
+    height: 32px;
+}
